@@ -1,0 +1,4 @@
+pikappa0208 comandi bash
+git log 
+git push
+git commit 
